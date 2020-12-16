@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs')
 const file = 'values.txt'
-const token = `NzgzNzk1NTIyNjY2MTAyODA0.X8f8dg.o_6HZrlEz85RQ_C7Z8wgF5FdHB8`;
+const token = ``;
 
 const prefix = `--`
 
